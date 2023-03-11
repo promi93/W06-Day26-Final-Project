@@ -1,0 +1,44 @@
+/* HOME PAGE */
+
+body {
+  background-color: black;
+}
+
+/* NAV - DROPDOWN */
+.dropdown button:hover {
+  background-color: transparent;
+  border: none;
+}
+
+#first-drop {
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 0;
+}
+
+#first-drop a:hover {
+  background-color: transparent;
+}
+
+#first-drop a {
+  font-size: smaller;
+  color: white;
+}
+
+/* MAIN CARDS CLASS */
+h4 {
+  color: rgb(223, 219, 219);
+}
+
+/* FOOTER */
+p {
+  color: gray;
+}
+
+.helper {
+  border: 1px solid gray;
+  width: 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
