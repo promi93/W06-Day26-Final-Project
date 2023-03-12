@@ -5,6 +5,12 @@ body {
 }
 
 /* NAV - DROPDOWN */
+
+#disc-none li {
+  list-style-type: none;
+  margin: 0.5em;
+}
+
 .dropdown button:hover {
   background-color: transparent;
   border: none;
@@ -41,4 +47,14 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+/* PROFILE PAGE */
+
+.profile-logo img {
+  width: 15em;
+}
+
+.profile-logo {
+  background-color: black;
 }
