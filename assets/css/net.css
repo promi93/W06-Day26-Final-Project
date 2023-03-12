@@ -35,9 +35,9 @@ p {
   color: gray;
 }
 
-.helper {
+.helper p {
   border: 1px solid gray;
-  width: 5em;
+  width: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
