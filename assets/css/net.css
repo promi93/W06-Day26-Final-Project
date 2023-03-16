@@ -1,5 +1,3 @@
-/* HOME PAGE */
-
 body {
   background-color: black;
 }
@@ -47,14 +45,4 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-/* PROFILE PAGE */
-
-.profile-logo img {
-  width: 15em;
-}
-
-.profile-logo {
-  background-color: black;
 }
